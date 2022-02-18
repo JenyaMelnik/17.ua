@@ -1,0 +1,1708 @@
+QUERY: SELECT * FROM `newsa` ORDER BY `id` DESC 
+
+QUERY: SELECT * FROM `news` ORDER BY `idq` DESC 
+
+QUERY: SELECT * FROM `newqs` ORDER BY `id` DESC Table 'main.newqs' doesn't exist
+
+QUERY: SELECT * FROMf `news` ORDER BY `id` DESC 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROMf `news` ORDER BY `id` DESC' at line 1
+
+QUERY: SELECT * FROM `newsf` ORDER BY `id` DESC 
+Table 'main.newsf' doesn't exist
+
+QUERY: SELECT * FROM `newss` ORDER BY `id` DESC 
+Table 'main.newss' doesn't exist
+
+QUERY: SELECT * FROM `newss` ORDER BY `id` DESC 
+Table 'main.newss' doesn't exist
+ file:W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line:33
+2021-09-22 22:27:51
+
+QUERY: SELECT * FROM `newss` ORDER BY `id` DESC 
+Table 'main.newss' doesn't exist
+ file:W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line:33
+2021-09-22 22:28:17
+
+QUERY: SELECT * FROM `newss` ORDER BY `id` DESC 
+Table 'main.newss' doesn't exist
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 33
+2021-09-22 22:30:28
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` =  ' . mysqli_real_escape_string( . 'ha
+
+QUERY: INSERT INTO `users` SET
+    `login` =  ' . mysqli_real_escape_string( . 'ha
+
+QUERY: INSERT INTO `users` SET
+    `login` =  mysqli_real_escape_string('
+
+QUERY: SELECT * FROM `newss` ORDER BY `id` DESC 
+Table 'main.newss' doesn't exist
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 33
+2021-09-22 23:04:39
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = ,
+    `password` = ''',
+    `about` = '>ha' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+    `password` = ''',
+    `about` = '>ha'' at line 2
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 34
+2021-09-22 23:12:33
+
+QUERY: INSERT INTO `users` SET
+    `login` = ha' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha'' at line 2
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 34
+2021-09-22 23:13:03
+
+QUERY: INSERT INTO `users` SET
+    `login` = ,
+    `password` = ''',
+    `about` = '>ha' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+    `password` = ''',
+    `about` = '>ha'' at line 2
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 34
+2021-09-22 23:13:42
+
+QUERY: INSERT INTO `users` SET
+    `login` = ha' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha'' at line 2
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 34
+2021-09-22 23:14:31
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = '\'',
+    `about` = '&gt;ha&lt;/b&gt;' 
+Unknown column 'about' in 'field list'
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 40
+2021-09-23 09:38:02
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = '\'',
+    `about` = '&gt;ha&lt;/b&gt;' 
+Unknown column 'about' in 'field list'
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 40
+2021-09-23 09:50:19
+
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `about` = '&gt;ha&lt;/b&gt;' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha&lt;/b&gt;'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 40
+2021-09-23 10:00:05
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `about` = '&gt;ha&lt;/b&gt;' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha&lt;/b&gt;'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 40
+2021-09-23 10:02:46
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `about` = '&gt;ha&lt;/b&gt;' <br>
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha&lt;/b&gt;'' at line 3<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 36<br>
+2021-09-23 10:04:15
+
+QUERY: INSERT INTO `users` SET
+    `login` = '',
+    `password` = ''',
+    `about` = '&gt;ha&lt;/b&gt;' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha&lt;/b&gt;'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 10:06:33
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `about` = '&gt;ha&lt;/b&gt;' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha&lt;/b&gt;'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 10:11:54
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `about` = '&gt;ha&lt;/b&gt;' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha&lt;/b&gt;'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 10:12:26
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `about` = '&gt;ha&lt;/b&gt;' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ha&lt;/b&gt;'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 10:14:03
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = 'ha'
+Unknown column 'about' in 'field list'
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 35
+2021-09-23 12:02:38
+
+QUERY: INSERT INTO `users` SET
+    `login` = 'ha'
+Field 'email' doesn't have a default value
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 35
+2021-09-23 12:04:20
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '<b',
+    `login` = '<b',
+   /* `password` = ''',*/
+    `comments` = '>ha</b>'<br>
+Column 'login' specified twice<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 37<br>
+2021-09-23 13:06:35
+
+QUERY: INSERT INTO `users` SET
+    `login` = '<b',
+   /* `password` = ''',*/
+    `comments` = '>ha</b>'<br>
+Field 'email' doesn't have a default value<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 36<br>
+2021-09-23 13:07:11
+
+QUERY: INSERT INTO `users` SET
+    `login` = 'b',
+   /* `password` = ''',*/
+    `comments` = '>ha</b>'<br>
+Field 'email' doesn't have a default value<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 36<br>
+2021-09-23 13:07:27
+
+QUERY: INSERT INTO `users` SET
+    `login` = 'b',
+//    `password` = ''',
+    `comments` = '>ha</b>'<br>
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '//    `password` = ''',
+    `comments` = '>ha</b>'' at line 3<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 36<br>
+2021-09-23 13:08:39
+
+QUERY: INSERT INTO `users` SET
+    `login` = 'b',
+    `password` = ''',
+    `comments` = '>ha</b>'<br>
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 36<br>
+2021-09-23 13:08:50
+
+QUERY: INSERT INTO `users` SET
+    `login` = 'b',
+    `password` = ''',
+    `comments` = '>ha'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:10:01
+
+QUERY: INSERT INTO `users` SET
+    `login` = 'b',
+    `password` = '\'',
+    `comments` = '>ha'
+Field 'email' doesn't have a default value
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:13:02
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = '\'',
+    `comments` = '>ha'
+Field 'email' doesn't have a default value
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:14:10
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = '\'',
+    `comments` = '&gt;ha&lt;/b&gt;'
+Field 'email' doesn't have a default value
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:15:43
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&amp;lt;b',
+    `password` = '\'',
+    `comments` = '&amp;gt;ha&amp;lt;/b&amp;gt;'&lt;br&gt;
+Field 'email' doesn't have a default value&lt;br&gt;
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php&lt;br&gt;
+ line: 36&lt;br&gt;
+2021-09-23 13:16:52
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'&lt;b\',\r\n    `password` = \'\\\'\',\r\n    `comments` = \'&gt;ha&lt;/b&gt;\'<br>\nField \'email\' doesn\'t have a default value<br>\n file: W:\\domains\\homeworks.ua\\homeworks\\17.ua\\modules\\news\\main.php<br>\n line: 36<br>\n2021-09-23 13:17:28
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = '\'',
+    `comments` = '&gt;ha&lt;/b&gt;'
+Field 'email' doesn't have a default value
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:19:31
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = '\'',
+    `comments` = '&gt;ha&lt;/b&gt;'
+Field 'email' doesn't have a default value
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:19:59
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `comments` = '&gt;ha&lt;/b&gt;'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:20:43
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `comments` = '&gt;ha&lt;/b&gt;'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:27:54
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `comments` = '&gt;ha&lt;/b&gt;'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:31:17
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `comments` = '&gt;ha&lt;/b&gt;'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:32:32
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `comments` = '&gt;ha&lt;/b&gt;'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:32:36
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'&lt;b\',\r\n    `password` = \'\'\',\r\n    `comments` = \'&gt;ha&lt;/b&gt;\'<br>\nYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'/b>\'\' at line 3<br>\n file: W:\\domains\\homeworks.ua\\homeworks\\17.ua\\modules\\news\\main.php<br>\n line: 36<br>\n2021-09-23 13:33:42
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'&lt;b\',\r\n    `password` = \'\'\',\r\n    `comments` = \'&gt;ha&lt;/b&gt;\'<br>\nYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'/b>\'\' at line 3<br>\n file: W:\\domains\\homeworks.ua\\homeworks\\17.ua\\modules\\news\\main.php<br>\n line: 36<br>\n2021-09-23 13:33:43
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `comments` = '&gt;ha&lt;/b&gt;'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:34:29
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'
+
+QUERY: INSERT INTO `users` SET\r\n    `login` =  \'
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'
+
+QUERY: 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:46:58
+
+QUERY: INSERT INTO `users` SET
+    `login` = '&lt;b',
+    `password` = ''',
+    `comments` = '&gt;ha&lt;/b&gt;'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:47:07
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'
+
+QUERY: INSERT INTO `users` SET\r\n    `login` = \'<b\',\r\n    `password` = \'\'\',\r\n    `comments` = \'>ha</b>\'<br>
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 36<br>
+2021-09-23 13:50:35
+
+QUERY: INSERT INTO `users` SET
+    `login` = '<b',
+    `password` = ''',
+    `comments` = '>ha</b>'<br>
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 36<br>
+2021-09-23 13:54:27
+
+QUERY: INSERT INTO `users` SET
+    `login` = '<b',
+    `password` = ''',
+    `comments` = '>ha</b>'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3<br>
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php<br>
+ line: 36<br>
+2021-09-23 13:55:57
+
+QUERY: INSERT INTO `users` SET
+    `login` = '<b',
+    `password` = ''',
+    `comments` = '>ha</b>'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 13:58:54
+
+QUERY: INSERT INTO `users` SET
+    `login` = '<b',
+    `password` = ''',
+    `comments` = '>ha</b>'
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 14:01:03
+
+QUERY: INSERT INTO `users` SET
+    `login` = '
+
+QUERY: INSERT INTO `users` SET
+`login` = '<b',
+`password` = ''',
+`about` = '>ha</b>'
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 14:27:30
+
+QUERY: INSERT INTO `users` SET\r\n`login` = \'<b\',\r\n`password` = \'\'\',\r\n`about` = \'>ha</b>\'\r\n
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 14:28:03
+
+QUERY: INSERT INTO `users` SET
+`login` = '<b',
+`password` = ''',
+`about` = '>ha</b>'
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/b>'' at line 3
+ file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+ line: 36
+2021-09-23 14:31:01
+
+QUERY: 
+        INSERT INTO `users` SET
+        `login`    = 'Jenya',
+        `password` = 'CBdb5tnrHmBWA',
+        `email`    = 'jenyamelnik1986@gmail.com',
+        `age`      = 35,
+        `hash`      = CBqntOhfFysrE
+        
+Unknown column 'CBqntOhfFysrE' in 'field list'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\auth\registration.php
+line: 55
+date2021-09-28 13:10:09
+
+QUERY: 
+UPDATE `users` SET
+`active` = 1
+WHERE `id` = 36а
+AND `hash` = 'CBqntOhfFysrE';
+    
+Unknown column '36а' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\auth\activate.php
+line: 8
+date2021-09-28 13:33:25
+
+QUERY: 
+    SELECT FROM `users`
+WHERE `login` = 'Jenya'
+AND `password` = 'CBOKdqLvLumRQ'
+AND `active` = 1
+LIMIT = 1
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `users`
+WHERE `login` = 'Jenya'
+AND `password` = 'CBOKdqLvLumRQ'
+AND `ac' at line 1
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\auth\auth.php
+line: 7
+date2021-09-29 16:17:26
+
+QUERY: 
+    SELECT * FROM `users`
+WHERE `login` = 'Jenya'
+AND `password` = 'CBOKdqLvLumRQ'
+AND `active` = 1
+LIMIT = 1
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1' at line 5
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\auth\auth.php
+line: 7
+date2021-09-29 16:21:07
+
+QUERY: 
+    SELECT * FROM `users`
+WHERE `login` = 'Jenya'
+AND `password` = 'CBOKdqLvLumRQ'
+AND `active` = 1
+LIMIT = 1
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1' at line 5
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\auth\auth.php
+line: 7
+date2021-09-29 16:21:12
+
+QUERY: 
+    SELECT * FROM `users`
+WHERE `login` = 'Jenya'
+AND `password` = 'CBOKdqLvLumRQ'
+AND `active` = '1'
+LIMIT = 1
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1' at line 5
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\auth\auth.php
+line: 7
+date2021-09-29 16:26:54
+
+QUERY: 
+        INSERT INTO `users`
+`login`    = 'Oleh',
+`password` = 'CB99YZft.ZCQA',
+`email`    = 'Oleh@i.ua',
+`email`    = 'Oleh@i.ua',
+`age`      = '12',
+`hash`     = 'CBde.826jBqjY'
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`login`    = 'Oleh',
+`password` = 'CB99YZft.ZCQA',
+`email`    = 'Oleh@i.ua',
+' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\registration.php
+line: 59
+date2021-09-30 15:36:20
+
+QUERY: 
+        INSERT INTO `users`
+`login`    = 'Oleh',
+`password` = 'CB99YZft.ZCQA',
+`email`    = 'Oleh@i.ua',
+`email`    = 'Oleh@i.ua',
+`age`      = '12',
+`hash`     = 'CBde.826jBqjY'
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`login`    = 'Oleh',
+`password` = 'CB99YZft.ZCQA',
+`email`    = 'Oleh@i.ua',
+' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\registration.php
+line: 59
+date2021-09-30 15:36:20
+
+QUERY: 
+        INSERT INTO `users` SET 
+`login`    = 'Oleh',
+`password` = 'CB99YZft.ZCQA',
+`email`    = 'Oleh@i.ua',
+`email`    = 'Oleh@i.ua',
+`age`      = 35,
+`hash`     = 'CBqXN1.2zc2Q.'
+        
+Column 'email' specified twice
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\registration.php
+line: 59
+date2021-09-30 15:38:14
+
+QUERY: 
+        INSERT INTO `users` SET 
+`login`    = 'Oleh',
+`password` = 'CB99YZft.ZCQA',
+`email`    = 'Oleh@i.ua',
+`email`    = 'Oleh@i.ua',
+`age`      = 35,
+`hash`     = 'CBqXN1.2zc2Q.'
+        
+Column 'email' specified twice
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\registration.php
+line: 59
+date2021-09-30 15:40:10
+
+QUERY: 
+        INSERT INTO `users` SET 
+`login`    = 'Oleh',
+`password` = 'CB99YZft.ZCQA',
+`email`    = 'Oleh@i.ua',
+`email`    = 'Oleh@i.ua',
+`age`      = 35,
+`hash`     = 'CBqXN1.2zc2Q.'
+        
+Column 'email' specified twice
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\registration.php
+line: 59
+date2021-09-30 15:40:10
+
+QUERY: 
+    SELECT `id`
+    FROM `users`
+WHERE `login` = 'фуфвп'
+AND `pass` = 'CBSum.V2wGTus'
+LIMIT 1
+    
+Unknown column 'pass' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 9
+date2021-09-30 16:51:34
+
+QUERY: 
+SELECT FROM `users`
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `users`' at line 1
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\comments2\main.php
+line: 6
+date2021-10-01 09:32:17
+
+QUERY: 
+            UPDATE `users` 
+SET `hash` = 'CBouTQUYHXuWI'
+WHERE `id` = 
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 26
+date2021-10-01 23:43:37
+
+QUERY: 
+            UPDATE `users` 
+SET `hash` = 'CBouTQUYHXuWI'
+WHERE `id` = 
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 26
+date2021-10-01 23:45:55
+
+QUERY: 
+            UPDATE `users` 
+SET `hash` = 'CB6epMtaLxOII'
+WHERE `id` = 
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 26
+date2021-10-01 23:50:05
+
+QUERY: 
+SELECT *
+FROM `users`
+WHERE `id` = 41
+AND `hash` = CB6epMtaLxOII
+LIMIT 1
+
+Unknown column 'CB6epMtaLxOII' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\allPages.php
+line: 23
+date2021-10-01 23:51:08
+
+QUERY: 
+SELECT *
+FROM `users`
+WHERE `id` = 41
+AND `hash` = CB6epMtaLxOII
+LIMIT 1
+
+Unknown column 'CB6epMtaLxOII' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\allPages.php
+line: 23
+date2021-10-01 23:51:09
+
+QUERY: 
+            UPDATE `users` 
+SET `hash` = CB6epMtaLxOII
+WHERE `id` = 
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 25
+date2021-10-02 17:13:39
+
+QUERY: 
+            UPDATE `users` 
+SET `hash` = CB6epMtaLxOII
+WHERE `id` = 
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 25
+date2021-10-02 17:14:47
+
+QUERY: 
+            UPDATE `users` 
+SET `hash` = CB6epMtaLxOII
+WHERE `id` = 41
+            
+Unknown column 'CB6epMtaLxOII' in 'field list'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 25
+date2021-10-02 17:15:29
+
+QUERY: 
+            UPDATE `users` 
+SET `hash` = CB6epMtaLxOII
+WHERE `id` = 41
+LIMIT 1
+            
+Unknown column 'CB6epMtaLxOII' in 'field list'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 25
+date2021-10-02 17:16:18
+
+QUERY: 
+            UPDATE `users` 
+SET `hash` = 'CB6epMtaLxOII'
+SET `ip` = 'CBacOoVtp4.ZM'
+SET `userAgent` = 'CBsArLTFekQzI'
+WHERE `id` = 41
+LIMIT 1 
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET `ip` = 'CBacOoVtp4.ZM'
+SET `userAgent` = 'CBsArLTFekQzI'
+WHERE `id` = 41
+' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 33
+date2021-10-04 16:32:24
+
+QUERY: 
+            UPDATE `users` 
+SET `hash`  = 'CB6epMtaLxOII'
+`ip`        = 'CBacOoVtp4.ZM'
+`userAgent` = 'CBsArLTFekQzI'
+WHERE `id`  = 41
+LIMIT 1 
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`ip`        = 'CBacOoVtp4.ZM'
+`userAgent` = 'CBsArLTFekQzI'
+WHERE `id`  = 41
+' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 33
+date2021-10-04 16:33:14
+
+QUERY: 
+            UPDATE `users` 
+SET `hash`  = 'CB6epMtaLxOII'
+`ip`        = 'CBacOoVtp4.ZM'
+`userAgent` = 'CBsArLTFekQzI'
+WHERE `id`  = 41
+LIMIT 1 
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`ip`        = 'CBacOoVtp4.ZM'
+`userAgent` = 'CBsArLTFekQzI'
+WHERE `id`  = 41
+' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\auth.php
+line: 27
+date2021-10-04 16:35:19
+
+QUERY: 
+        INSERT INTO `comments` SET
+`name` = 'Anna',
+`email` = 'Anna@i.ua',
+`comment` = 'qwrgqehqtja',
+`date` = NOW()
+
+Unknown column 'name' in 'field list'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\comments2\main.php
+line: 16
+date2021-10-05 15:43:39
+
+QUERY: 
+            DELETE FROM `goods`
+            WHERE `id` IN (int)(15)
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'int)(15)' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\goods\main.php
+line: 15
+date2021-10-20 09:20:19
+
+QUERY: 
+            DELETE FROM `goods`
+            WHERE `id` IN ((int)(15))
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'int)(15))' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\goods\main.php
+line: 15
+date2021-10-20 09:20:48
+
+QUERY: 
+SELECT *
+FROM `users`
+WHERE `id` = 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\users\main.php
+line: 14
+date2021-11-03 13:06:42
+
+QUERY: 
+            INSERT INTO `users` 
+            SET `login` = 'Polina',
+                `password` = 'password',
+                `age` = 20,
+                `email` = 'Polina@i.ua',
+                `active` = 0,
+                `access` = 0
+        
+Field 'hash' doesn't have a default value
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\users\add.php
+line: 69
+date2021-11-04 22:18:15
+
+QUERY: 
+            UPDATE `users` 
+            SET `login` = 'Dima',
+             `password` = 'CBOM7nZdyk33c',
+                  `age` = 25,
+                `email` = 'Alenka@i.ua',
+               `active` = 1,
+               `access` = 0
+             WHERE `id` = 52
+       
+Duplicate entry 'Dima' for key 'ixLogin'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\users\edit.php
+line: 84
+date2021-11-05 16:01:46
+
+QUERY: 
+            INSERT INTO `goods` 
+            SET `category`     = 'Красные вина',
+                `title`        = 'Саперави',
+                `description`  = 'йкцуууууууууууууууууууууууууууууууууууууууууууууууууу',
+                `img`          = '/uploaded/20211110-151116img25660.jpg'
+                `strength`     = 2,
+                `price`        = 500,
+                `availability` = 1
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`strength`     = 2,
+                `price`        = 500,
+                `ava' at line 6
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\goods\add.php
+line: 45
+date2021-11-10 15:11:16
+
+QUERY: 
+                        UPDATE `users` 
+                        SET  `img` = '/uploaded/20211111-124934img21106.jpg'
+                        WHERE `id` = 41
+                    
+Unknown column 'img' in 'field list'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\edit.php
+line: 76
+date2021-11-11 12:49:34
+
+QUERY: 
+                INSERT INTO `users` 
+                SET  `avatar` = '/uploaded/20211111-133755img50966.jpg'
+                WHERE `login` = wwwwwwwwwwwwww
+                AND `password` = 'CBouTQUYHXuWI'
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `login` = wwwwwwwwwwwwww
+                AND `password` = 'CBouTQUYHXuWI'' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\registration.php
+line: 76
+date2021-11-11 13:37:55
+
+QUERY: 
+                INSERT INTO `users` 
+                SET  `avatar` = '/uploaded/20211111-133931img22813.jpg'
+                WHERE `login` = eeeeeeeeeeeeeee
+                AND `password` = 'CBrJq376wjglQ'
+            
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `login` = eeeeeeeeeeeeeee
+                AND `password` = 'CBrJq376wjglQ' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\registration.php
+line: 76
+date2021-11-11 13:39:31
+
+QUERY: 
+                UPDATE `users` 
+                SET  `avatar` = '/uploaded/20211111-134331img69336.jpg'
+                WHERE `login` = eeeeeeeeeeeee
+                AND `password` = 'CBrJq376wjglQ'
+            
+Unknown column 'eeeeeeeeeeeee' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\cab\registration.php
+line: 76
+date2021-11-11 13:43:31
+
+QUERY: 
+        SELECT * 
+        FROM `pages`
+        WHERE `module` = ''
+        LIMIT 1
+    
+
+file: W:\domains\homeworks.ua\homeworks\17.ua\variables.php
+line: 35
+date2021-11-23 13:38:26
+
+QUERY: 
+        SELECT * 
+        FROM `pages`
+        WHERE `module` = ''
+        LIMIT 1
+    
+
+file: W:\domains\homeworks.ua\homeworks\17.ua\variables.php
+line: 35
+date2021-11-23 13:38:27
+
+QUERY: 
+    UPDATE `goods` SET
+        `category` = `ROSE WINES`
+    WHERE `category` = `RED WINES`
+
+Unknown column 'RED WINES' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\draft\main.php
+line: 31
+date:2021-11-30 14:54:06
+=============================================
+
+QUERY: 
+            INSERT INTO `news` 
+            SET `title`       = 'Динамо выиграло у Баварии',
+                `category`    = 'Спорт',
+                `text`        = '30.11.2021 года в матче лиги чемпионов, киевское Динамо выиграло у Мюнхенской Баварии со счетом 1:0. Гол на 61 минуте забил Николай Шапаренко.'
+        
+Field 'date' doesn't have a default value
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\news\add.php
+line: 28
+date:2021-12-01 12:25:53
+=============================================
+
+QUERY: 
+            INSERT INTO `news` 
+            SET `title`       = 'Динамо выиграло у Баварии',
+                `category`    = 'Спорт',
+                `text`        = '30.11.2021 года в матче лиги чемпионов, киевское Динамо выиграло у Мюнхенской Баварии со счетом 1:0. Гол на 61 минуте забил Николай Шапаренко.'
+                `date` = NOW();
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`date` = NOW()' at line 5
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\news\add.php
+line: 28
+date:2021-12-01 12:27:48
+=============================================
+
+QUERY: 
+            INSERT INTO `news` 
+            SET `title`       = 'Динамо выиграло у Баварии',
+                `category`    = 'Спорт',
+                `text`        = '30.11.2021 года в матче лиги чемпионов, киевское Динамо выиграло у Мюнхенской Баварии со счетом 1:0. Гол на 61 минуте забил Николай Шапаренко.'
+                `date` = date NOW();
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`date` = date NOW()' at line 5
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\news\add.php
+line: 28
+date:2021-12-01 12:31:37
+=============================================
+
+QUERY: 
+            INSERT INTO `news` 
+            SET `title`       = 'Динамо выиграло у Баварии',
+                `category`    = 'Спорт',
+                `text`        = '30.11.2021 года в матче лиги чемпионов, киевское Динамо выиграло у Мюнхенской Баварии со счетом 1:0. Гол на 61 минуте забил Николай Шапаренко.',
+                `date` = NOW();
+        
+Field 'category_id' doesn't have a default value
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\news\add.php
+line: 28
+date:2021-12-01 12:32:49
+=============================================
+
+QUERY: 
+            INSERT INTO `news` 
+            SET `title`       = 'Динамо выиграло у Баварии',
+                `category`    = 'Спорт',
+                `category_id` = 1,
+                `text`        = '30.11.2021 года в матче лиги чемпионов, киевское Динамо выиграло у Мюнхенской Баварии со счетом 1:0. Гол на 61 минуте забил Николай Шапаренко.',
+                `date` = NOW();
+        
+Field 'description' doesn't have a default value
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\news\add.php
+line: 37
+date:2021-12-01 12:48:22
+=============================================
+
+QUERY: 
+            UPDATE `news` 
+            SET `title`       = 'Украина выпустила новую модель ЗАЗкраина',
+                `category`    = 'Авто',
+                `category_id` = 3,
+                `text`        = 'На автовыставке в Дубаи Украина представила новый автомобиль ЗАЗ nosens. Планировали сделать тестдрайв, но авто не смогли завести.',
+                `date`        = NOW();
+            WHERE `id`        = 25
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id`        = 25' at line 7
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\news\edit.php
+line: 42
+date:2021-12-01 13:16:50
+=============================================
+
+QUERY: 
+     SELECT *
+     FROM `news_category`
+     ORDER BY ASC 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\news\main.php
+line: 3
+date:2021-12-01 14:02:45
+=============================================
+
+QUERY: 
+            INSERT INTO `pages` SET 
+            `page` = 'qwerty',
+            `static` = 0
+        
+Unknown column 'page' in 'field list'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\pages\add.php
+line: 19
+date:2021-12-06 16:15:40
+=============================================
+
+QUERY: 
+            INSERT INTO `pages` SET 
+            `module` = 'qwerty',
+            `static` = 0
+        
+Field 'meta_description' doesn't have a default value
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\pages\add.php
+line: 19
+date:2021-12-06 16:15:59
+=============================================
+
+QUERY: 
+            INSERT INTO `pages` SET 
+            `module` = 'qwerty',
+            `static` = 0
+        
+Field 'text' doesn't have a default value
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\pages\add.php
+line: 19
+date:2021-12-06 16:18:24
+=============================================
+
+QUERY: 
+        SELECT `id` FROM `books_author`
+        WHERE `auhhor` IN ()
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 65
+date:2021-12-07 14:47:53
+=============================================
+
+QUERY: 
+        SELECT `id` FROM `books_author`
+        WHERE `auhhor` IN (Шекспир,Толстой)
+        
+Unknown column 'auhhor' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 65
+date:2021-12-07 14:48:16
+=============================================
+
+QUERY: 
+        SELECT `id` FROM `books_author`
+        WHERE `author` IN (Шекспир,Толстой)
+        
+Unknown column 'Шекспир' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 65
+date:2021-12-07 14:48:27
+=============================================
+
+QUERY: 
+        SELECT `id` FROM `books_author`
+        WHERE `author` IN (Шекспир, Толстой)
+        
+Unknown column 'Шекспир' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 65
+date:2021-12-07 14:58:01
+=============================================
+
+QUERY: 
+        SELECT * FROM `books_author`
+        WHERE `author` IN (Шекспир, Толстой)
+        
+Unknown column 'Шекспир' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 65
+date:2021-12-07 14:58:27
+=============================================
+
+QUERY: 
+            INSERT INTO `books2books_author`
+            SET `book_id` = 0,
+            `author_id` = 
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 76
+date:2021-12-07 15:08:15
+=============================================
+
+QUERY: 
+        SELECT * FROM `books_author`
+        WHERE `author` IN (Толстой, Шекспир, Толстой)
+        ORDER BY `id` ASC
+        
+Unknown column 'Толстой' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 65
+date:2021-12-08 12:46:26
+=============================================
+
+QUERY: 
+        SELECT * FROM `books_author`
+        WHERE `author` IN (Толстой, Шекспир)
+        ORDER BY `id` ASC
+        
+Unknown column 'Толстой' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 63
+date:2021-12-08 12:50:47
+=============================================
+
+QUERY: 
+SELECT FROM `books`
+WHERE `id` = 70
+LIMIT 1
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `books`
+WHERE `id` = 70
+LIMIT 1' at line 1
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\currentBook.php
+line: 5
+date:2021-12-08 15:20:20
+=============================================
+
+QUERY: 
+    SELECT `author` 
+    FROM `books_author`
+    WHERE `id` IN (Array)
+
+Unknown column 'Array' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\currentBook.php
+line: 36
+date:2021-12-09 14:16:17
+=============================================
+
+QUERY: 
+        SELECT `id`
+        FROM `books_category`
+        WHERE `category` = ''
+        LIMIT 1
+    
+Table 'jenyamelnik1986.books_category' doesn't exist
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 45
+date:2021-12-09 15:02:53
+=============================================
+
+QUERY: 
+            SELECT FROM `books_author`
+            WHERE `author` = 'Пушкин'
+            LIMIT 1
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `books_author`
+            WHERE `author` = 'Пушкин'
+            LI' at line 1
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\addAuthors.php
+line: 11
+date:2021-12-14 10:27:12
+=============================================
+
+QUERY: 
+SELECT COUNT(ProductID) AS NumberOfProducts FROM books;
+
+Unknown column 'ProductID' in 'field list'
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 3
+date:2021-12-21 10:16:31
+=============================================
+
+QUERY: select count(id) as cnt from cars
+Table 'jenyamelnik1986.cars' doesn't exist
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 7
+date:2021-12-21 10:24:14
+=============================================
+
+QUERY: 
+        SELECT COUNT(id) AS cnt 
+        FROM books
+        WHERE ``
+    
+Unknown column '' in 'where clause'
+file: W:\domains\homeworks.ua\homeworks\17.ua\libs\class_CreatePaginator.php
+line: 9
+date:2021-12-21 16:55:27
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -3, 3
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 93
+date:2021-12-21 17:53:03
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -3, 3
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 93
+date:2021-12-21 17:53:49
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -3, 3
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 93
+date:2021-12-21 17:54:29
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -3, 3
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 93
+date:2021-12-21 17:54:31
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -3, 3
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 93
+date:2021-12-21 17:54:46
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -3, 3
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 93
+date:2021-12-21 17:55:08
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -3, 3
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 93
+date:2021-12-21 17:55:41
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -3, 3
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 93
+date:2021-12-21 17:57:31
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT -1, 1
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1, 1' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 112
+date:2021-12-23 14:22:33
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT  LIMIT 0, 3
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\books\main.php
+line: 67
+date:2021-12-24 12:49:37
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `books` 
+        ORDER BY `id` DESC 
+        LIMIT  LIMIT 0, 3
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0, 3' at line 4
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\books\main.php
+line: 67
+date:2021-12-24 12:50:13
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `author` = '''
+            LIMIT 1
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''
+            LIMIT 1' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\addAuthors.php
+line: 11
+date:2022-01-05 13:10:28
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `author` = '''
+            LIMIT 1
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''
+            LIMIT 1' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\addAuthors.php
+line: 11
+date:2022-01-05 13:11:18
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `author` = '''
+            LIMIT 1
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''
+            LIMIT 1' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\addAuthors.php
+line: 11
+date:2022-01-05 13:11:26
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `author` = '''
+            LIMIT 1
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''
+            LIMIT 1' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\addAuthors.php
+line: 11
+date:2022-01-05 13:11:36
+=============================================
+
+QUERY: 
+            INSERT INTO `books_author`
+            SET `author` = '''
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\addAuthors.php
+line: 18
+date:2022-01-05 13:13:04
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `author` = '''
+            LIMIT 1
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''
+            LIMIT 1' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\addAuthors.php
+line: 11
+date:2022-01-05 13:33:05
+=============================================
+
+QUERY: 
+            UPDATE `books_author`
+            SET `author` = '''''''
+            WHERE `id` = 6
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''''''
+            WHERE `id` = 6' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\editAuthors.php
+line: 12
+date:2022-01-05 13:34:17
+=============================================
+
+QUERY: 
+        SELECT `id`
+        FROM `news_category`
+        WHERE `category` = '&lt;b&gt;qwerty&lt;b&gt;qwrdfhmdhk//123''''''`''
+        LIMIT 1
+    
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''&lt;b&gt;qwerty&lt;b&gt;qwrdfhmdhk//123''''''`''
+        LIMIT 1' at line 3
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\news\main.php
+line: 44
+date:2022-01-10 13:01:28
+=============================================
+
+QUERY: 
+        DELETE FROM `books_authors`
+        WHERE `id` = 8
+    
+Table 'jenyamelnik1986.books_authors' doesn't exist
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\authors.php
+line: 8
+date:2022-01-10 14:29:34
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `id` IN ()
+            ORDER BY `id` ASC
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+            ORDER BY `id` ASC' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 59
+date:2022-01-10 22:48:46
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `id` IN ()
+            ORDER BY `id` ASC
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+            ORDER BY `id` ASC' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 59
+date:2022-01-10 22:53:11
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `id` IN ()
+            ORDER BY `id` ASC
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+            ORDER BY `id` ASC' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\edit.php
+line: 58
+date:2022-01-10 23:31:38
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `id` IN (Нет авторов)
+            ORDER BY `id` ASC
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'авторов)
+            ORDER BY `id` ASC' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\edit.php
+line: 58
+date:2022-01-11 11:16:00
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `id` IN (Нет авторов)
+            ORDER BY `id` ASC
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'авторов)
+            ORDER BY `id` ASC' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\edit.php
+line: 58
+date:2022-01-11 11:16:50
+=============================================
+
+QUERY: 
+    SELECT * FROM `books2books_author`
+    WHERE `book_id` IN ()
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 146
+date:2022-01-12 13:29:16
+=============================================
+
+QUERY: 
+    SELECT * FROM `books2books_author`
+    WHERE `book_id` IN ()
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 146
+date:2022-01-12 13:32:38
+=============================================
+
+QUERY: 
+    SELECT * FROM `books2books_author`
+    WHERE `book_id` IN ()
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 146
+date:2022-01-12 13:54:00
+=============================================
+
+QUERY: 
+    SELECT * FROM `books_author`
+    WHERE 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 128
+date:2022-01-12 15:50:32
+=============================================
+
+QUERY: 
+    SELECT * FROM `books2books_author`
+    BoWHERE `book_id` IN (106, 105, 104, 102, 98)
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`book_id` IN (106, 105, 104, 102, 98)' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\main.php
+line: 132
+date:2022-01-13 11:11:49
+=============================================
+
+QUERY: 
+    SELECT *  FROM `news_category`
+    WHERE `id` = 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\news\main.php
+line: 42
+date:2022-01-14 00:20:11
+=============================================
+
+QUERY: 
+            SELECT * FROM `books_author`
+            WHERE `id` IN ()
+            ORDER BY `id` ASC
+        
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+            ORDER BY `id` ASC' at line 2
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\books\add.php
+line: 58
+date:2022-01-17 09:55:37
+=============================================
+
+QUERY: 
+        INSERT INTO `comments` SET
+            `login`   = '',
+            `email`   = 'jenyamelnik1986@i.ua',
+            `comment` = '',
+            `date`    = ''
+
+Incorrect datetime value: '' for column 'date' at row 1
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\comments\main.php
+line: 23
+date:2022-01-27 11:22:43
+=============================================
+
+QUERY: 
+        INSERT INTO `comments` SET
+            `login`   = '',
+            `email`   = 'jenyamelnik1986@i.ua',
+            `comment` = '',
+            `date`    = ''
+
+Incorrect datetime value: '' for column 'date' at row 1
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\comments\main.php
+line: 22
+date:2022-01-28 11:14:26
+=============================================
+
+QUERY: 
+        INSERT INTO `comments` SET
+            `login`   = '',
+            `email`   = 'jenyamelnik1986@i.ua',
+            `comment` = '',
+            `date`    = ''
+
+Incorrect datetime value: '' for column 'date' at row 1
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\comments\main.php
+line: 22
+date:2022-01-28 11:15:19
+=============================================
+
+QUERY: 
+        INSERT INTO `comments` SET
+            `login`   = '',
+            `email`   = 'jenyamelnik1986@i.ua',
+            `comment` = '',
+            `date`    = 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5
+file: W:\domains\homeworks.ua\homeworks\17.ua\modules\admin\comments\main.php
+line: 22
+date:2022-01-28 11:19:19
+=============================================
+
+QUERY: 
+        SELECT * 
+        FROM `pages`
+        WHERE `module` = 'static'
+        LIMIT 1
+    
+Table 'jenyamelnik1986.pages' doesn't exist
+file: /var/www/17.ua/public_html/variables.php
+line: 43
+date:2022-02-16 23:36:01
+=============================================
+

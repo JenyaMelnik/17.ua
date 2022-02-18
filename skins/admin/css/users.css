@@ -1,0 +1,35 @@
+
+.user-list {
+    width: 300px;
+    float: left;
+}
+
+.user-info {
+    width: 700px;
+}
+
+.user {
+    border: 1px solid black;
+}
+
+.first-col {
+    width: 130px;
+    padding-left: 10px;
+}
+
+.second-col {
+    width: 210px;
+}
+
+.edit {
+    margin-left: 320px;
+}
+
+td a {
+    color: darksalmon;
+}
+
+.description {
+    height: 40px;
+    border-bottom: 1px solid black;
+}

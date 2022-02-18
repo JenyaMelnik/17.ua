@@ -1,0 +1,209 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-button {
+    width: 153px;
+    height: 43px;
+    background-position: -5px -5px;
+}
+
+.sprite-button2 {
+    width: 152px;
+    height: 41px;
+    background-position: -5px -58px;
+}
+
+.sprite-cart {
+    width: 16px;
+    height: 14px;
+    background-position: -5px -109px;
+}
+
+.sprite-cart2 {
+    width: 16px;
+    height: 14px;
+    background-position: -5px -133px;
+}
+
+.sprite-facebook {
+    width: 150px;
+    height: 127px;
+    background-position: -5px -157px;
+}
+
+.sprite-facebook2 {
+    width: 150px;
+    height: 127px;
+    background-position: -5px -294px;
+}
+
+.sprite-google {
+    width: 177px;
+    height: 127px;
+    background-position: -5px -431px;
+}
+
+.sprite-google2 {
+    width: 177px;
+    height: 127px;
+    background-position: -5px -568px;
+}
+
+.sprite-letter {
+    width: 21px;
+    height: 17px;
+    background-position: -5px -705px;
+}
+
+.sprite-pinterest {
+    width: 138px;
+    height: 127px;
+    background-position: -5px -732px;
+}
+
+.sprite-pinterest2 {
+    width: 138px;
+    height: 127px;
+    background-position: -5px -869px;
+}
+
+.sprite-selector {
+    width: 13px;
+    height: 13px;
+    background-position: -5px -1006px;
+}
+
+.sprite-selector2 {
+    width: 13px;
+    height: 13px;
+    background-position: -5px -1029px;
+}
+
+.sprite-time {
+    width: 416px;
+    height: 223px;
+    background-position: -5px -1052px;
+}
+
+.sprite-twitter {
+    width: 112px;
+    height: 127px;
+    background-position: -5px -1285px;
+}
+
+.sprite-twitter2 {
+    width: 112px;
+    height: 127px;
+    background-position: -5px -1422px;
+}
+
+.sprite-youtube {
+    width: 138px;
+    height: 127px;
+    background-position: -5px -1559px;
+}
+
+.sprite-youtube2 {
+    width: 138px;
+    height: 127px;
+    background-position: -5px -1696px;
+}
+
+.sprite-z-loupe {
+    width: 16px;
+    height: 16px;
+    background-position: -5px -1833px;
+}
+
+.sprite-z-loupe-2 {
+    width: 16px;
+    height: 16px;
+    background-position: -5px -1859px;
+}
+
+.sprite-z-my-cart {
+    width: 104px;
+    height: 38px;
+    background-position: -5px -1885px;
+}
+
+.sprite-z-my-cart-2 {
+    width: 104px;
+    height: 38px;
+    background-position: -5px -1933px;
+}
+
+.sprite-zz-arrow {
+    width: 9px;
+    height: 5px;
+    background-position: -5px -1981px;
+}
+
+.sprite-zz-arrow-2 {
+    width: 9px;
+    height: 5px;
+    background-position: -5px -1996px;
+}
+
+.sprite-zz-heart {
+    width: 13px;
+    height: 12px;
+    background-position: -5px -2011px;
+}
+
+.sprite-zz-heart-2 {
+    width: 13px;
+    height: 12px;
+    background-position: -5px -2033px;
+}
+
+.sprite-zz-sign-in {
+    width: 12px;
+    height: 13px;
+    background-position: -5px -2055px;
+}
+
+.sprite-zz-sign-in-2 {
+    width: 12px;
+    height: 13px;
+    background-position: -5px -2078px;
+}
+
+.sprite-zzz-letter-2 {
+    width: 21px;
+    height: 17px;
+    background-position: -5px -2101px;
+}
+
+<i class="sprite sprite-button"></i>
+<i class="sprite sprite-button2"></i>
+<i class="sprite sprite-cart"></i>
+<i class="sprite sprite-cart2"></i>
+<i class="sprite sprite-facebook"></i>
+<i class="sprite sprite-facebook2"></i>
+<i class="sprite sprite-google"></i>
+<i class="sprite sprite-google2"></i>
+<i class="sprite sprite-letter"></i>
+<i class="sprite sprite-pinterest"></i>
+<i class="sprite sprite-pinterest2"></i>
+<i class="sprite sprite-selector"></i>
+<i class="sprite sprite-selector2"></i>
+<i class="sprite sprite-time"></i>
+<i class="sprite sprite-twitter"></i>
+<i class="sprite sprite-twitter2"></i>
+<i class="sprite sprite-youtube"></i>
+<i class="sprite sprite-youtube2"></i>
+<i class="sprite sprite-z-loupe"></i>
+<i class="sprite sprite-z-loupe-2"></i>
+<i class="sprite sprite-z-my-cart"></i>
+<i class="sprite sprite-z-my-cart-2"></i>
+<i class="sprite sprite-zz-arrow"></i>
+<i class="sprite sprite-zz-arrow-2"></i>
+<i class="sprite sprite-zz-heart"></i>
+<i class="sprite sprite-zz-heart-2"></i>
+<i class="sprite sprite-zz-sign-in"></i>
+<i class="sprite sprite-zz-sign-in-2"></i>
+<i class="sprite sprite-zzz-letter-2"></i>

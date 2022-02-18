@@ -1,0 +1,1 @@
+<img src="../../img/seaFood.png" width="1320" height="800" alt="seaFood">
